@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#img1{
+    width: 100%;
+    height: 230px;
+    /* z-index: -1; */
+}
+.Text{
+    position: absolute;
+    top: 10px;
+    left: 5%;
+}
+#bars{
+    font-size: 50px;
+    color: white;
+}
+.Text2{
+    position: absolute;
+    top: 120px;
+    left: 5%;
+    color: white;
+}
+.Text3{
+    font-size: 40px;
+}
+#date{
+    font-size: 20px;
+}
+
+#hurray{
+    text-align: center;
+    font-size: 40px;
+}
+#footermain{
+margin-top: 55%;
+}
+
+#footer{
+    width: 100%;
+    height: 150px;
+    /* margin-top: 65%; */
+    border: 1px solid lightblue;
+    background: rgb(94, 94, 192);
+}
+#footertext{
+    color: white;
+    font-size: 30px;
+    padding-top: 50px;
+}
+#addTodo{
+    /* border-radius: 40px; */
+    /* background: blue; */
+    /* width: 45px; */
+    /* margin-left: 100px; */
+    padding-left: 80%;
+}
+#plus{
+    font-size: 70px;
+    color: blue
+    
+}
